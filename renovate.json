@@ -1,8 +1,5 @@
 {
   "extends": [
     "config:base"
-  ],
-  "encrypted": {
-    "npmrc": "tjDlcLSX5c6oBUwJNqNl5eyCP8veVOvUwyL6tVdnY3FFQc+2tZ+8oui4p0eqes88aIX8g7/AdhNyUIgVjFoL7gXw9I4TgcFhSbvTLGBXIMpWcpArIsfD3NtrTIbc/2toPxX9MsWykTUSjJgFgQulA6xh8kGlYwU1DTF/aqNGCe1NH+m/ZkDRfP8rsiq0jFwLK65B7OjI3HehGbJy24vV+ZRAyXJk7MjMhjIn11wDnKMvbEjONv14Q78/p/Yl14fK4NIB/jdScrwkPdU4keySliC7QHUQ3m56Wrff9cvDexoCnoNR21h5g4N/SynDCtgmG+qax4arkEwCtbcihWRk9A=="
-  }
+  ]
 }
